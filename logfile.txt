@@ -1,0 +1,10 @@
+INFO: System started
+INFO: Sensor reading OK
+ERROR: I2C bus failed
+INFO: Retruing connection
+ERROR: I2C bus failed!
+WARNING: Temperature high
+INFO: Sensor reading OK
+ERROR: GPIO pin not found
+INFO: System running
+WARNING: Memory usage high

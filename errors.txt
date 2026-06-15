@@ -1,0 +1,4 @@
+ERROR: I2C bus failed
+ERROR: I2C bus failed!
+ERROR: GPIO pin not found
+NEW error found

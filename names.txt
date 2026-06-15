@@ -1,0 +1,11 @@
+Amrutha
+Linux
+Embedded
+Kernel
+System
+Driver
+Ubuntu
+Buildroot
+Yocto
+GPIO
+
