@@ -1,0 +1,13 @@
+Linux Learning Notes
+Phase 1: Complete
+Phase 2: In Progress
+Topic learned:
+- Navigation
+- File permissions
+- Shell scripting
+- Process management
+- Networking
+- Makefile
+- GDB
+- Git
+
