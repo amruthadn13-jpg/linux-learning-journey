@@ -1,0 +1,4 @@
+echo "U-Boot Starting..."
+echo "Initializing hardware..."
+echo "Loading kernel from SD card..."
+echo "Passing control to Linux kernel..."
